@@ -1,4 +1,1 @@
-
-
-
-include 'BasicMediaDecoderSample'
+include 'Application'
