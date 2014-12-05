@@ -9,4 +9,10 @@ categories:   [Media]
 languages:    [Java]
 solutions:    [Mobile]
 github:       android-BasicMediaDecoder
+level:        ADVANCED
+icon:         screenshots/icon-web.png
+apiRefs:
+    - android:android.media.MediaCodec
+    - android:android.media.MediaExtractor
+    - android:android.animation.TimeAnimator
 license: apache2
