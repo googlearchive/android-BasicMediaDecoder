@@ -14,9 +14,11 @@
  See the License for the specific language governing permissions and
  limitations under the License.
 -->
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools">
     <item android:id="@+id/menu_play"
           android:icon="@drawable/selector_play"
-          android:title="Play"
-          android:showAsAction="ifRoom|withText" />
+          android:title="@string/play"
+          android:showAsAction="ifRoom|withText"
+          tools:ignore="AppCompatResource"/>
 </menu>

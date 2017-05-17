@@ -15,6 +15,8 @@
  limitations under the License.
 -->
 <resources>
-    <string name="app_video_attrib">(c) copyright 2008, Blender Foundation / www.bigbuckbunny.org
+    <string name="app_video_attrib">
+        &#169; copyright 2008, Blender Foundation / www.bigbuckbunny.org
     </string>
+    <string name="play">Play</string>
 </resources>

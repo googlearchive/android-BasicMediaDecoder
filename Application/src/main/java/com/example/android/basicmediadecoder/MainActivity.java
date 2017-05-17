@@ -135,7 +135,7 @@ public class MainActivity extends Activity {
 
             // By using a {@link TimeAnimator}, we can sync our media rendering commands with
             // the system display frame rendering. The animator ticks as the {@link Choreographer}
-            // recieves VSYNC events.
+            // receives VSYNC events.
             mTimeAnimator.setTimeListener(new TimeAnimator.TimeListener() {
                 @Override
                 public void onTimeUpdate(final TimeAnimator animation,
